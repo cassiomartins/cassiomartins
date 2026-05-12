@@ -87,7 +87,7 @@ print(eu.status)
 
 | Canal | Link |
 |-------|------|
-| 💼 LinkedIn | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/cassiomartinsc) |
+| 💼 LinkedIn | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/cassiomartins) |
 | 📧 Email | [![Email](https://img.shields.io/badge/cassiomartinsc@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:cassiomartinsc@gmail.com) |
 | 🐙 GitHub | [![GitHub](https://img.shields.io/badge/@cassiomartins-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/cassiomartins) |
 
