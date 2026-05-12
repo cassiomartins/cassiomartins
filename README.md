@@ -9,7 +9,7 @@
  ╚═════╝╚═╝  ╚═╝╚══════╝╚══════╝╚═╝ ╚═════╝
 ```
 
-### `> Transformando dados em decisões desde [11111100110]` &nbsp;🖥️
+### `> Transformando dados em decisões desde [11111100000]` &nbsp;🖥️
 
 </div>
 
